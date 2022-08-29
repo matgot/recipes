@@ -1,3 +1,7 @@
 Dette er en kageopskrift
 Rasmus vil gerne redigere
+<<<<<<< HEAD
 Sukker
+=======
+Branch2
+>>>>>>> Experimental2
